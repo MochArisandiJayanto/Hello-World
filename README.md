@@ -1,0 +1,1 @@
+Mengeleuarkan output "Hello world!" dengan bahasa C++
